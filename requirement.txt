@@ -2,7 +2,11 @@ opencv-python
 numpy
 joblib
 mediapipe
-sklearn
+scikit-learn
 openai
 baidu-aip
 playsound
+PyQt5==5.15.9 pyqt5-tools
+chardet
+SpeechRecognition
+pyaudio
