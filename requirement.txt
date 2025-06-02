@@ -4,3 +4,5 @@ joblib
 mediapipe
 sklearn
 openai
+baidu-aip
+playsound
